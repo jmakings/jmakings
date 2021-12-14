@@ -4,4 +4,4 @@
 - 📫 Reach me here: 
   - 📧  jeffmakings@gmail.com
   - 🔵  linkedin.com/in/jeffmakings/
-  - 📞  (760) 710-7554
+  
