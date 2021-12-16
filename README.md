@@ -4,4 +4,4 @@
 - 📫 Reach me here: 
   - 📧  jeffmakings@gmail.com
   - 🔵  linkedin.com/in/jeffmakings/
-- Contact me directly for private code from university courses
+- Private code from university courses is available upon request
