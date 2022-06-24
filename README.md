@@ -1,5 +1,5 @@
- - I’m interested in bioinformatics, machine learning, and software development
-- I’m currently pursuing a MS in Computer Science at the University of California, San Diego
+ - Interested in bioinformatics, machine learning, and software development
+- Currently pursuing a MS in Computer Science at the University of California, San Diego
 - Reach me here: 
   - jeffmakings@gmail.com
   - linkedin.com/in/jeffmakings/
