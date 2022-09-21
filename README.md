@@ -2,5 +2,5 @@
 - Currently pursuing a MS in Computer Science at the University of California, San Diego
 - Reach me here: 
   - jeffmakings@gmail.com
-  - linkedin.com/in/jeffmakings/
+  - [LinkedIn](linkedin.com/in/jeffmakings/)
 - Private code from university courses is available upon request
