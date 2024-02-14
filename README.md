@@ -1,4 +1,4 @@
- - Pursuing bioinformatics, machine learning, and (light) software development
+ - Main interests are bioinformatics, machine learning, and (light) software development
 - ~Currently pursuing~ *Finished!* a MS in Computer Science at the University of California, San Diego
 - Currently working in bioinformatics research
 - Reach me here: 
