@@ -1,7 +1,11 @@
-- Main interests are bioinformatics, machine learning, and (light) software development
-- MS in Computer Science at the University of California, San Diego
-- Currently working in bioinformatics research
-- Reach me here: 
-  - jeffmakings@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/jeffmakings/)
-- Private code from university courses is available upon request
+# Jeff Makings
+
+Data Scientist specializing in computational biology and bioinformatics. 
+
+Currently working on: 
+- Spatial transcriptomics using Visium HD
+- Multi-modality breast cancer survival prediction
+  
+Reach me here: 
+- jeffmakings@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jeffmakings/)
