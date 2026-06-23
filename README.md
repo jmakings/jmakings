@@ -4,6 +4,7 @@ Data Scientist specializing in computational biology and bioinformatics.
 
 Currently working on: 
 - Multi-modality breast cancer survival prediction
+- Improving Ley Lab MiXCR Pipeline with Nextflow integration
   
 Reach me here: 
 - jeffmakings@gmail.com
